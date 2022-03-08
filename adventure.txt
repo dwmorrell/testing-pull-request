@@ -2,3 +2,6 @@ Adding text to adventure.txt
 Socrates
 Joan of Arc
 Abraham Lincoln
+test 
+test
+test
