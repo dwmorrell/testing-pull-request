@@ -1,4 +1,4 @@
-Adding text to adventure.txt
+removed a line
 Socrates
 Joan of Arc
 Abraham Lincoln
